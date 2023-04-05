@@ -7,3 +7,6 @@ I am not responsible for any damage this causes.
 
 # Requirements
 -VLC Python bindings
+
+# Credits
+Song: TheFatRat - Xenogenesis
