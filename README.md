@@ -5,5 +5,5 @@ If ``crash`` is set to true, it WILL BSOD.
 
 I am not responsible for any damage this causes.
 
-#Requirements
+# Requirements
 -VLC Python bindings
