@@ -9,4 +9,4 @@ I am not responsible for any damage this causes.
 -VLC Python bindings
 
 # Credits
-Song: TheFatRat - Xenogenesis
+-Song: TheFatRat - Xenogenesis
